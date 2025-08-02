@@ -17,4 +17,3 @@ My personal portafolio [Click here](https://wt-portafolio.vercel.app).
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/wilson-toribio-8512051b7/)
 - Read more of my articles on [medium.com](https://medium.com/@spiritDevWil)
-- Stackoverflow answers [stackoverflow](https://stackoverflow.com/)
