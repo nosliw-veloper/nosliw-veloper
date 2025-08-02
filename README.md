@@ -1,16 +1,20 @@
-## Hi there 👋
+## :wave: Welcome to my profile!
 
-<!--
-**nosliw-veloper/nosliw-veloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hydev777" />
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+My personal portafolio [Click here](https://wt-portafolio.vercel.app).
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,typescript,html,css,react,nodejs,express,git,vscode)](https://skillicons.dev)
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/wilson-toribio-8512051b7/)
+- Read more of my articles on [medium.com](https://medium.com/@spiritDevWil)
+- Stackoverflow answers [stackoverflow](https://stackoverflow.com/)
